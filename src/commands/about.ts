@@ -18,7 +18,7 @@ const createAbout = (): string[] => {
   about.push(
     "Hello everyone, I am Alfian Nurrizky,",
     "",
-    "I have a strong interest in Web Development and Penetration Testing.",
+    "I have a strong interest in Web Dev and Penetration Testing.",
     "",
     "Currently, I am dedicated to mastering this field."
   );
