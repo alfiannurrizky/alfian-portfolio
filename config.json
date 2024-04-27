@@ -1,16 +1,16 @@
 {
   "ascii": [
-    "   █████████   █████       ███████████ █████   █████████   ██████   █████",
-    "  ███░░░░░███ ░░███       ░░███░░░░░░█░░███   ███░░░░░███ ░░██████ ░░███",
-    " ░███    ░███  ░███        ░███   █ ░  ░███  ░███    ░███  ░███░███ ░███",
-    " ░███████████  ░███        ░███████    ░███  ░███████████  ░███░░███░███",
-    " ░███░░░░░███  ░███        ░███░░░█    ░███  ░███░░░░░███  ░███ ░░██████",
-    " ░███    ░███  ░███      █ ░███  ░     ░███  ░███    ░███  ░███  ░░█████",
-    " █████   █████ ███████████ █████       █████ █████   █████ █████  ░░█████",
-    "░░░░░   ░░░░░ ░░░░░░░░░░░ ░░░░░       ░░░░░ ░░░░░   ░░░░░ ░░░░░    ░░░░░",
-    "                                                                         ",
-    "                                                                         ",
-    "                                                                         "
+    "   █████████  █████      ███████████ █████  █████████  ██████   █████",
+    "  ███░░░░░███░░███      ░░███░░░░░░█░░███  ███░░░░░███░░██████ ░░███",
+    " ░███    ░███ ░███       ░███   █ ░  ░███ ░███    ░███ ░███░███ ░███",
+    " ░███████████ ░███       ░███████    ░███ ░███████████ ░███░░███░███",
+    " ░███░░░░░███ ░███       ░███░░░█    ░███ ░███░░░░░███ ░███ ░░██████",
+    " ░███    ░███ ░███      █░███  ░     ░███ ░███    ░███ ░███  ░░█████",
+    " █████   █████████████████████       ██████████   ██████████  ░░█████",
+    "░░░░░   ░░░░░░░░░░░░░░░░░░░░░       ░░░░░░░░░░   ░░░░░░░░░░    ░░░░░",
+    "",
+    "",
+    ""
   ],
   "title": "Alfiannrzky",
   "username": "visitor",
@@ -19,10 +19,9 @@
   "repoLink": "https://github.com/alfiannurrizky",
   "social": {
     "email": "alfiannrzky0@gmail.com",
-    "github": "https://github.com/alfiannurrizky",
-    "linkedin": "https://www.linkedin.com/in/alfian-nurrizky/"
+    "github": "alfiannurrizky",
+    "linkedin": "alfian-nurrizky"
   },
-  "aboutGreeting": "Hello everyone, I am Alfian Nurrizky, have a strong interest in Web Development and Penetration Testing. Currently, I am dedicated to mastering this field.",
   "projects": [
     [
       "Gdorks",
@@ -31,17 +30,17 @@
     ],
     [
       "Opengo",
-      "Automatically opens the url with the given list.",
+      "Automatically opens the URLs.",
       "https://github.com/alfiannurrizky/opengo"
     ],
     [
       "Whatsapp-bot",
-      "Whatsapp bot for check adhan times using adhan, whatsapp-web js, and moment library. The way it works is to send the current location, and bot will give the times of adhan.",
+      "Whatsapp bot for check adhan times",
       "https://github.com/alfiannurrizky/whatsapp-bot"
     ],
     [
       "Simdesa",
-      "Web application for managing village information systems",
+      "Village information systems",
       "https://github.com/alfiannurrizky/simdesa"
     ]
   ],
